@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🌱 I’m currently learning **React Native**<br><br>- 💬 Ask me about **Mobile development and Website development**<br><br>- 📫 How to reach me **zinwaiyan1443@gmail.com**<br><br>- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1B3OLYpANyKvW06Hq8-yIWZ8_aPGIOfMT/view?usp=sharing)<br>
+- 🌱 I’m currently learning **React Native**<br><br>- 💬 Ask me about **Mobile development and Website development**<br><br>- 📫 How to reach me **zinwaiyan1443@gmail.com**<br><br>- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1ItTfj1Y0uiPG9moWf1IjJDwir4C3_1jq/view?usp=sharing)<br>
 
 
 ## 🌐 Socials:
